@@ -18,11 +18,24 @@ A custom clone of the original YouTube player controls — built using HTML, CSS
 - ⏱️ Current time & duration display  
 - 📱 Fully responsive design
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack
 
-Clone the repository and open `index.html` in your browser:
+- HTML5 – Semantic video structure
+- CSS3 – Custom styled controls (with backdrop-filter, transitions, etc.)
+- JavaScript (Vanilla) – Handles interaction, updates, and media API integration
 
-```bash
-git clone https://github.com/your-username/youtube-player-controls-clone.git
-cd youtube-player-controls-clone
-open index.html  # or just open manually in your browser
+⚠️ Limitations
+
+- This is a UI/UX clone; it does not embed or stream real YouTube content.
+- It does not include YouTube's full feature set like annotations, ads, or full analytics.
+
+📄 License
+This project is open-source under the MIT License.
+
+🙌 Acknowledgements
+
+- Inspired by the official YouTube player
+- Uses standard HTML5 video API
+
+Thank you
+Xian Saiful
