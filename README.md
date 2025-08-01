@@ -24,7 +24,7 @@ A custom clone of the original YouTube player controls — built using HTML, CSS
 - CSS3 – Custom styled controls (with backdrop-filter, transitions, etc.)
 - JavaScript (Vanilla) – Handles interaction, updates, and media API integration
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 - This is a UI/UX clone; it does not embed or stream real YouTube content.
 - It does not include YouTube's full feature set like annotations, ads, or full analytics.
@@ -32,10 +32,11 @@ A custom clone of the original YouTube player controls — built using HTML, CSS
 📄 License
 This project is open-source under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 - Inspired by the official YouTube player
 - Uses standard HTML5 video API
 
 Thank you
+
 Xian Saiful
