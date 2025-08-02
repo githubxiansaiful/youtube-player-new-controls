@@ -15,7 +15,6 @@
     height: 48px;
     width: 48px;
     border-radius: 40px;
-    padding: 4px;
 }
 
 .btn-reset {
@@ -57,11 +56,16 @@
 }
 
 .video-left-controls {
-    gap: 12px;
+    gap: 5px;
+}
+
+.video-left-controls .circle-btn {
+    padding: 4px;
 }
 
 .video-right-controls {
     composes: blur-bg;
+    padding: 4px;
 }
 
 /* Control Items */
